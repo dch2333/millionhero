@@ -10,3 +10,5 @@
 os，requests，PIL，baidu_aip，selenium，re，lxml
 
 并且需要提前装上chrome的driver
+
+三个文件放到一个文件夹下运行millionhero.py就行
